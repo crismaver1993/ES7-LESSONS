@@ -1,0 +1,112 @@
+{
+  "id": 14,
+  "lessonNumber": 14,
+  "versionCode": 1,
+  "quarter": "1T2020",
+  "title": "",
+  "color": "",
+  "lessonType": "A",
+  "language": "es",
+  "verse": "",
+  "weekDate": "",
+  "lessonDays": [
+    {
+      "id": 141,
+      "idLesson": 14,
+      "idDay": 1,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": ""
+    },
+    {
+      "id": 142,
+      "idLesson": 14,
+      "idDay": 2,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": ""
+    },
+    {
+      "id": 143,
+      "idLesson": 14,
+      "idDay": 3,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": " "
+    },
+    {
+      "id": 144,
+      "idLesson": 14,
+      "idDay": 4,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": ""
+    },
+    {
+      "id": 145,
+      "idLesson": 14,
+      "idDay": 5,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": ""
+    },
+    {
+      "id": 146,
+      "idLesson": 14,
+      "idDay": 6,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": " "
+    },
+    {
+      "id": 147,
+      "idLesson": 14,
+      "idDay": 7,
+      "dayTitle": "",
+      "date": "",
+      "verses": [
+        {
+          "verse": "",
+          "verseText": ""
+        }
+      ],
+      "lessonText": " "
+    }
+  ]
+}
