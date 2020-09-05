@@ -1,13 +1,13 @@
 {
   "id": 1,
   "lessonNumber": 1,
-  "versionCode": 1,
+  "versionCode": 3,
   "quarter": "3T2020",
   "title": "¿POR QUÉ TESTIFICAR?",
   "color": "",
   "lessonType": "A",
   "language": "es",
-  "verse": "<p>&ldquo;(TEST2)Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad&rdquo; (1 Tim. 2:3, 4).</p> ",
+  "verse": "<p>&ldquo;Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos y vengan al conocimiento de la verdad&rdquo; (1 Tim. 2:3, 4).</p> ",
   "weekDate": "27 Junio–3 Julio",
   "lessonDays": [
     {
