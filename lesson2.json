@@ -1,13 +1,13 @@
 {
    "id":2,
    "lessonNumber":2,
-   "versionCode":5,
+   "versionCode":6,
    "quarter":"4T2020",
    "title":"<p><strong>LA FAMILIA</strong></p>",
    "color":"",
    "lessonType":"A",
    "language":"es",
-   "verse":"",
+   "verse":"<p><strong>PARA MEMORIZAR: &ldquo;Oye, hijo m&iacute;o, la instrucci&oacute;n de tu padre, y no desprecies la direcci&oacute;n de tu madre&rdquo; (Prov. 1:8).</strong></p>",
    "weekDate":"3 de Octubre- 9 de Octubre",
    "lessonDays":[
       {
