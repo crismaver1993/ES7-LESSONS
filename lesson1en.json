@@ -1,112 +1,112 @@
 {
-  "id": 701,
-  "lessonNumber": 1,
-  "versionCode": 1,
-  "quarter": "1T2021",
-  "title": "",
-  "color": "",
-  "lessonType": "A",
-  "language": "en",
-  "verse": "",
-  "weekDate": "Fecha",
-  "lessonDays": [
-    {
-      "id": 11,
-      "idLesson": 1,
-      "idDay": 1,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": ""
-    },
-    {
-      "id": 12,
-      "idLesson": 1,
-      "idDay": 2,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": ""
-    },
-    {
-      "id": 13,
-      "idLesson": 1,
-      "idDay": 3,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": ""
-    },
-    {
-      "id": 14,
-      "idLesson": 1,
-      "idDay": 4,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": ""
-    },
-    {
-      "id": 15,
-      "idLesson": 1,
-      "idDay": 5,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": ""
-    },
-    {
-      "id": 16,
-      "idLesson": 1,
-      "idDay": 6,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": " "
-    },
-    {
-      "id": 17,
-      "idLesson": 1,
-      "idDay": 7,
-      "dayTitle": "",
-      "date": "",
-      "verses": [
-        {
-          "verse": "",
-          "verseText": ""
-        }
-      ],
-      "lessonText": " "
-    }
-  ]
+   "id":701,
+   "lessonNumber":1,
+   "versionCode":1,
+   "quarter":"1T2021",
+   "title":"",
+   "color":"",
+   "lessonType":"A",
+   "language":"en",
+   "verse":"",
+   "weekDate":"December 26–January 1",
+   "lessonDays":[
+      {
+         "id":11,
+         "idLesson":1,
+         "idDay":1,
+         "dayTitle":"",
+         "date":"December 26",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":""
+      },
+      {
+         "id":12,
+         "idLesson":1,
+         "idDay":2,
+         "dayTitle":"",
+         "date":"December 27",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":""
+      },
+      {
+         "id":13,
+         "idLesson":1,
+         "idDay":3,
+         "dayTitle":"",
+         "date":"December 28",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":""
+      },
+      {
+         "id":14,
+         "idLesson":1,
+         "idDay":4,
+         "dayTitle":"",
+         "date":"December 29",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":""
+      },
+      {
+         "id":15,
+         "idLesson":1,
+         "idDay":5,
+         "dayTitle":"",
+         "date":"December 30",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":""
+      },
+      {
+         "id":16,
+         "idLesson":1,
+         "idDay":6,
+         "dayTitle":"",
+         "date":"December 31",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":" "
+      },
+      {
+         "id":17,
+         "idLesson":1,
+         "idDay":7,
+         "dayTitle":"",
+         "date":"",
+         "verses":[
+            {
+               "verse":"",
+               "verseText":""
+            }
+         ],
+         "lessonText":" "
+      }
+   ]
 }
