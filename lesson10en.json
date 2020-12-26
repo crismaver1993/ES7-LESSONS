@@ -1,21 +1,21 @@
 {
   "id": 710,
   "lessonNumber": 10,
-  "versionCode": 5,
-  "quarter": "4T2020",
+  "versionCode": 1,
+  "quarter": "1T2021",
   "title": "",
   "color": "",
   "lessonType": "A",
   "language": "en",
   "verse": "",
-  "weekDate": "November 28 - December 4",
+  "weekDate": "",
   "lessonDays": [
     {
       "id": 101,
       "idLesson": 10,
       "idDay": 1,
       "dayTitle": "",
-      "date": "November 28",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -29,7 +29,7 @@
       "idLesson": 10,
       "idDay": 2,
       "dayTitle": "",
-      "date": "November 29",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -43,7 +43,7 @@
       "idLesson": 10,
       "idDay": 3,
       "dayTitle": "",
-      "date": "November 30",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -55,9 +55,9 @@
     {
       "id": 104,
       "idLesson": 10,
-      "idDay": 10,
+      "idDay": 4,
       "dayTitle": "",
-      "date": "December 1",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -71,7 +71,7 @@
       "idLesson": 10,
       "idDay": 5,
       "dayTitle": "",
-      "date": "December 2",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -85,7 +85,7 @@
       "idLesson": 10,
       "idDay": 6,
       "dayTitle": "",
-      "date": "December 3",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -99,7 +99,7 @@
       "idLesson": 10,
       "idDay": 7,
       "dayTitle": "",
-      "date": "December 4",
+      "date": "",
       "verses": [
         {
           "verse": "",
