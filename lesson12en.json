@@ -3,33 +3,33 @@
   "lessonNumber": 12,
   "versionCode": 1,
   "quarter": "1T2021",
-  "title": "<p><strong>Desire of Nations</strong></p>",
+  "title": "",
   "color": "",
   "lessonType": "A",
   "language": "en",
-  "verse": "<p><strong>Memory Text:</strong> &ldquo;The Gentiles shall come to your light, and kings to the brightness of your rising&rdquo; (Isaiah 60:3, NKJV).<strong></p>",
-  "weekDate": "March 13–March 19",
+  "verse": "",
+  "weekDate": "",
   "lessonDays": [
     {
       "id": 121,
       "idLesson": 12,
       "idDay": 1,
       "dayTitle": "",
-      "date": "March 13",
+      "date": "",
       "verses": [
         {
           "verse": "",
           "verseText": ""
         }
       ],
-      "lessonText": "<p><strong>W</strong>e must learn in the school of Christ. Nothing but His righteousness can entitle us to one of the blessings of the covenant of grace. We have long desired and tried to obtain these blessings but have not received them because we have cherished the idea that we could do something to make ourselves worthy of them. We have not looked away from ourselves, believing that Jesus is a living Saviour. We must not think that our own grace and merits will save us; the grace of Christ is our only hope of salvation. Through His prophet the Lord promises, &lsquo;Let the wicked forsake his way, and the unrighteous man his thoughts: let him return to the Lord, and He will have mercy upon him; and to our God, for He will abundantly pardon&rsquo; (Isaiah 55:7). We must believe the naked promise, and not accept feeling for faith. When we trust God fully, when we rely upon the merits of Jesus as a sin-pardoning Saviour, we shall receive all the help that we can desire.&rdquo;&mdash;Ellen G. White, Faith and Works, p. 36.<br><br>This week we can see more of this great truth as revealed in the writings of the prophet Isaiah.<br><br>* Study this week&rsquo;s lesson to prepare for Sabbath, March 20.</p>"
+      "lessonText": ""
     },
     {
       "id": 122,
       "idLesson": 12,
       "idDay": 2,
       "dayTitle": "",
-      "date": "March 14",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -43,7 +43,7 @@
       "idLesson": 12,
       "idDay": 3,
       "dayTitle": "",
-      "date": "March 15",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -57,7 +57,7 @@
       "idLesson": 12,
       "idDay": 4,
       "dayTitle": "",
-      "date": "March 16",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -71,7 +71,7 @@
       "idLesson": 12,
       "idDay": 5,
       "dayTitle": "",
-      "date": "March 17",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -85,7 +85,7 @@
       "idLesson": 12,
       "idDay": 6,
       "dayTitle": "",
-      "date": "March 18",
+      "date": "",
       "verses": [
         {
           "verse": "",
@@ -99,7 +99,7 @@
       "idLesson": 12,
       "idDay": 7,
       "dayTitle": "",
-      "date": "March 19",
+      "date": "",
       "verses": [
         {
           "verse": "",
