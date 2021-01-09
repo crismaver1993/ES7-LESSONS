@@ -3,19 +3,19 @@
   "lessonNumber": 13,
   "versionCode": 1,
   "quarter": "1T2021",
-  "title": "",
+  "title": "Estamos editando esta lecciòn. Sé paciente",
   "color": "",
   "lessonType": "A",
   "language": "es",
-  "verse": "Estamos editando el material que no hemos conseguido completo. Necesitamos su paciencia porque siempre está listo antes que se tenga que estudiar",
-  "weekDate": "",
+  "verse": "",
+  "weekDate": "20-26 de Marzo",
   "lessonDays": [
     {
       "id": 131,
       "idLesson": 13,
       "idDay": 1,
       "dayTitle": "",
-      "date": "",
+      "date": "20 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -29,7 +29,7 @@
       "idLesson": 13,
       "idDay": 2,
       "dayTitle": "",
-      "date": "",
+      "date": "21 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -43,7 +43,7 @@
       "idLesson": 13,
       "idDay": 3,
       "dayTitle": "",
-      "date": "",
+      "date": "22 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -57,7 +57,7 @@
       "idLesson": 13,
       "idDay": 4,
       "dayTitle": "",
-      "date": "",
+      "date": "23 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -71,7 +71,7 @@
       "idLesson": 13,
       "idDay": 5,
       "dayTitle": "",
-      "date": "",
+      "date": "24 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -85,7 +85,7 @@
       "idLesson": 13,
       "idDay": 6,
       "dayTitle": "",
-      "date": "",
+      "date": "25 de Marzo",
       "verses": [
         {
           "verse": "",
@@ -99,7 +99,7 @@
       "idLesson": 13,
       "idDay": 7,
       "dayTitle": "",
-      "date": "",
+      "date": "26 de Marzo",
       "verses": [
         {
           "verse": "",
