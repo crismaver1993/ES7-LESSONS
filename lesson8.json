@@ -8,14 +8,14 @@
   "lessonType": "A",
   "language": "es",
   "verse": "Si ya estás por estudiar esta lección y sigue sin contenido, trata de entrar de limpiar caché de la app y entra usando conexión a Internet. Si el problema continua, contáctanos.",
-  "weekDate": "",
+  "weekDate": "15-21 de Mayo",
   "lessonDays": [
     {
       "id": 81,
       "idLesson": 8,
       "idDay": 1,
       "dayTitle": "",
-      "date": "",
+      "date": "15 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -29,7 +29,7 @@
       "idLesson": 8,
       "idDay": 2,
       "dayTitle": "",
-      "date": "",
+      "date": "16 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -43,7 +43,7 @@
       "idLesson": 8,
       "idDay": 3,
       "dayTitle": "",
-      "date": "",
+      "date": "17 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -57,7 +57,7 @@
       "idLesson": 8,
       "idDay": 4,
       "dayTitle": "",
-      "date": "",
+      "date": "18 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -71,7 +71,7 @@
       "idLesson": 8,
       "idDay": 5,
       "dayTitle": "",
-      "date": "",
+      "date": "19 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -85,7 +85,7 @@
       "idLesson": 8,
       "idDay": 6,
       "dayTitle": "",
-      "date": "",
+      "date": "20 de Mayo",
       "verses": [
         {
           "verse": "",
@@ -99,7 +99,7 @@
       "idLesson": 8,
       "idDay": 7,
       "dayTitle": "",
-      "date": "",
+      "date": "21 de Mayo",
       "verses": [
         {
           "verse": "",
