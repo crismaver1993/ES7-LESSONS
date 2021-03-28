@@ -1,14 +1,14 @@
 {
   "id": 5,
   "lessonNumber": 5,
-  "versionCode": 6,
+  "versionCode": 7,
   "quarter": "2T2021",
   "title": "<p><strong>HIJOS DE LA PROMESA</strong></p>",
   "color": "",
   "lessonType": "A",
   "language": "es",
-  "verse": "24-30 de Abril",
-  "weekDate": "<p><strong>PARA MEMORIZAR: &ldquo;He aqu&iacute; yo estoy con vosotros todos los d&iacute;as, hasta el fi del mundo&rdquo; (Mat. 28:20).</strong></p>",
+  "verse": "<p><strong>PARA MEMORIZAR: &ldquo;He aqu&iacute; yo estoy con vosotros todos los d&iacute;as, hasta el fi del mundo&rdquo; (Mat. 28:20).</strong></p>",
+  "weekDate": "24-30 de Abril",
   "lessonDays": [
     {
       "id": 51,
